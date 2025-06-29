@@ -64,12 +64,12 @@ python vault_app.py
 ## 📸 GUI Screenshots
 
 ### 🔐 Login Screen
-![Login Screen](images/login.jpg)
+![Login Screen](images/login.JPG)
 
 ### 🧾 Vault Dashboard
-![Vault Dashboard](Password-vault/imagesdashboard.jpg)
-### Stored Credntials
-![Entries](images/stored data.jpg)
+![Vault Dashboard](images/dashboard.JPG)
+### 🧾Stored Credntials
+![Entries](images/stored data.JPG)
 ---
 
 ## ⚠️ Security Notes
