@@ -70,7 +70,7 @@ python vault_app.py
 ![Vault Dashboard](images/dashboard.JPG)
 
 ### 🧾Stored Credntials
-![Vault Data](images/storeddata.JPG)
+![Vault Data](images/stored_data.JPG)
 
 ---
 
