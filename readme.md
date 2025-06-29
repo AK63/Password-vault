@@ -68,8 +68,10 @@ python vault_app.py
 
 ### 🧾 Vault Dashboard
 ![Vault Dashboard](images/dashboard.JPG)
+
 ### 🧾Stored Credntials
-![Entries](images/stored data.JPG)
+![Vault Data](images/storeddata.JPG)
+
 ---
 
 ## ⚠️ Security Notes
